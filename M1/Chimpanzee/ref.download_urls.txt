@@ -1,0 +1,2 @@
+https://ftp.ensembl.org/pub/release-109/fasta/pan_troglodytes/dna/Pan_troglodytes.Pan_tro_3.0.dna.toplevel.fa.gz
+https://ftp.ensembl.org/pub/release-109/gtf/pan_troglodytes/Pan_troglodytes.Pan_tro_3.0.109.gtf.gz

@@ -1,0 +1,26 @@
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0017-12_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0017-13_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0020-6_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0020-7_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0020-10_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0020-13_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0025-10_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0025-11_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0025-12_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0027-6_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0027-7_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0027-8_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0027-9_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0028-1_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0053-8_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0053-9_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0055-7_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0055-8_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0055-9_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0067-8_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0067-9_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0067-10_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0068-8_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0068-9_S01_L003-001.fastq.tar
+# https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0070-1_S01_L003-001.fastq.tar
+https://data.nemoarchive.org/biccn/grant/u01_lein/lein/transcriptome/sncell/10x_v3/chimpanzee/raw/NW_TX0070-6_S01_L003-001.fastq.tar
