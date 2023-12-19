@@ -1,0 +1,4 @@
+# fastaq-primary.assembly
+https://ftp.ensembl.org/pub/release-109/fasta/macaca_mulatta/dna/Macaca_mulatta.Mmul_10.dna.toplevel.fa.gz
+# gtf
+https://ftp.ensembl.org/pub/release-109/gtf/macaca_mulatta/Macaca_mulatta.Mmul_10.109.gtf.gz
